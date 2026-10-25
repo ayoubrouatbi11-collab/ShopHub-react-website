@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <nav className="nav">
       <div className="navbar-container">
-        <Link to="/" className="navbar brand">
+        <Link to="/" className="navbar-brand">
           ShopHub
         </Link>
 
